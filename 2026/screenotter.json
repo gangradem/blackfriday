@@ -1,0 +1,14 @@
+{
+  "name": "ScreenOtter",
+  "url": "https://screenotter.com/#pricing",
+  "description": "Mac screen recorder and screenshot app: a zoom on every click, captions made on your Mac, eight camera layouts, and edit-by-transcript",
+  "category": "media",
+  "platforms": ["mac"],
+  "deal": "40% off one-time licenses with code BLACKFRIDAY26",
+  "code": "BLACKFRIDAY26",
+  "pricing": "one-time",
+  "price": { "regular": 49, "sale": 29.4, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-17",
+  "endDate": "2026-11-30"
+}
